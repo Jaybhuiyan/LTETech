@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LTETech/static/css/main.a06a802d.css",
-    "main.js": "/LTETech/static/js/main.f80be663.js",
-    "index.html": "/LTETech/index.html",
-    "main.a06a802d.css.map": "/LTETech/static/css/main.a06a802d.css.map",
-    "main.f80be663.js.map": "/LTETech/static/js/main.f80be663.js.map"
+    "main.css": "/LTETechnology/static/css/main.a06a802d.css",
+    "main.js": "/LTETechnology/static/js/main.2d36b215.js",
+    "index.html": "/LTETechnology/index.html",
+    "main.a06a802d.css.map": "/LTETechnology/static/css/main.a06a802d.css.map",
+    "main.2d36b215.js.map": "/LTETechnology/static/js/main.2d36b215.js.map"
   },
   "entrypoints": [
     "static/css/main.a06a802d.css",
-    "static/js/main.f80be663.js"
+    "static/js/main.2d36b215.js"
   ]
 }
