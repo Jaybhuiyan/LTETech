@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LTETech/static/css/main.a06a802d.css",
+    "main.js": "/LTETech/static/js/main.f80be663.js",
+    "index.html": "/LTETech/index.html",
+    "main.a06a802d.css.map": "/LTETech/static/css/main.a06a802d.css.map",
+    "main.f80be663.js.map": "/LTETech/static/js/main.f80be663.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06a802d.css",
+    "static/js/main.f80be663.js"
+  ]
+}
